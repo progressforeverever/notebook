@@ -31,6 +31,7 @@ databaseItems = [
   {text:'MySQL',link:'/database/MySQL/'},
   {text:'MongoDB',link:'/database/MongoDB/'},
   {text:'Redis',link:'/database/Redis/'},
+  {text:'Elatisearch',link:'/database/Elatisearch/'},
 ]
 
 
