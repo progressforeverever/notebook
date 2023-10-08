@@ -16,7 +16,8 @@ javaItems = [
   {text:'Spring',link:'/java/Spring/'},
   {text:'SpringCloud',link:'/java/SpringCloud/'},
   {text:'SpringSecurity',link:'/java/SpringSecurity/'},
-  {text:'DesignPattern',link:'/java/DesignPattern/'}
+  {text:'DesignPattern',link:'/java/DesignPattern/'},
+  {text:'开发与阅读',link:'/java/DevelopAndReading/'}
 ]
 
 pythonItems = [
