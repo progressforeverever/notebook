@@ -42,6 +42,12 @@ opsItems = [
 ]
 
 
+foundationItems = [
+  { text: 'Leetcode', link: '/foundation/Leetcode/' },
+  { text: '操作系统', link: '/foundation/os/' },
+  { text: '计算机网络', link: '/foundation/network/' },
+]
+
 // nav
 module.exports = [
   { text: '首页', link: '/' },
@@ -64,6 +70,10 @@ module.exports = [
   {
     text: '数据库与中间件',
     items: databaseItems,
+  },
+  {
+    text: '计算机基础',
+    items: foundationItems,
   },
 ]
 
